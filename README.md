@@ -59,7 +59,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-http://localhost:8501
+
 
 Health-AI/
 │── app.py
