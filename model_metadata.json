@@ -1,0 +1,28 @@
+{
+  "model_name": "SVM",
+  "accuracy": 0.9456,
+  "cv_mean": 0.9481333333333334,
+  "cv_std": 0.0037982452088650785,
+  "num_features": 56,
+  "num_classes": 16,
+  "classes": [
+    "Allergic_Reaction",
+    "Anxiety_Disorder",
+    "Arthritis",
+    "Asthma",
+    "Bronchitis",
+    "COVID-19",
+    "Common_Cold",
+    "Depression",
+    "Diabetes_Type_2",
+    "Flu",
+    "Food_Poisoning",
+    "Gastroenteritis",
+    "Hypertension",
+    "Migraine",
+    "Other",
+    "Pneumonia"
+  ],
+  "training_samples": 15000,
+  "test_samples": 3750
+}
